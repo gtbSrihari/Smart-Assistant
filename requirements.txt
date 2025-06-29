@@ -1,0 +1,7 @@
+streamlit
+transformers
+torch
+pdfminer.six
+nltk
+scikit-learn
+sentencepiece
