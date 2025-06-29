@@ -35,7 +35,7 @@ smart_assistant/
 
 ```bash
 git clone https://github.com/gtbSrihari/Smart-Assistant.git
-cd smart-assistant-research
+cd Smart-Assistant
 ```
 
 2. **Create a Virtual Environment**
